@@ -27,8 +27,7 @@
 [
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 0 },
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 1 },  
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 }, 
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 3 }, 
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 },  
 ],
 
 "cpu_threads_conf" : 
@@ -115,8 +114,8 @@ null,
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address": "poolmining1.dinastycoin.com:3333",
-"wallet_address": "Yx1RAecaCPBC9prJMRyKWkQ1TPMGSmkE9WyvFQkaxHRge587UmKEj5kLVqQajS94NUBVyxMwroPH1KHbtGvEP4Pa1FVZYFJpJ",
+"pool_address": "pool.leviarcoin.hashvault.pro:5555,
+"wallet_address": "Lqi5YKe5ouGX4hFajjSE3cboUm8j5xYBFKL11M6dCdgRjLmq6VAq2C66vaKaWKbhzKiK2fN3DajBNbKFW7JocGaU4SEhyPQ",
 "pool_password": "",
 /*
  * Network timeouts.
