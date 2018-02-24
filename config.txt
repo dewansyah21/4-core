@@ -121,7 +121,7 @@ null,
  */
 "pool_address" : "xlc.dark-mine.su:5555",
 "wallet_address" : "Lqi5YKe5ouGX4hFajjSE3cboUm8j5xYBFKL11M6dCdgRjLmq6VAq2C66vaKaWKbhzKiK2fN3DajBNbKFW7JocGaU4SEhyPQ",
-"pool_password" : "worker1:dewansyah21@gmail.com",
+"pool_password" : "worker2:dewansyah21@gmail.com",
 /*
  * Network timeouts.
  * Because of the way this client is written it doesn't need to constantly talk (keep-alive) to the server to make 
