@@ -28,11 +28,6 @@
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 0 },
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 1 },
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 },
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 3 },
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 4 },
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 5 },
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 6 },
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 7 },
 ],
 
 "cpu_threads_conf" : 
@@ -119,9 +114,9 @@ null,
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "pool.electroneum.hashvault.pro:3333",
-"wallet_address" : "etnkFwiH4zVH7NffDucoPSFwv18ETyX58jXXw2aP7pdxQSLhgD9uCT4KzWrtXiDbahQckVZp1uiimADVrdwjDgKB3gsoPrrFdD",
-"pool_password" : "azure1:dewansyah21@gmail.com",
+"pool_address": "graftpool.net:5555",
+"wallet_address": "GD4bq96nKiU24DtNL3btud2kCe3pLpVr2UgRDpnVKJ8z7v2epvWQ9QZdZc5eswB7MKgt6AqnFX53YjB5HuCfPGGLH23UfcX",
+"pool_password": "vultr:dewansyah21@gmail.com",
 /*
  * Network timeouts.
  * Because of the way this client is written it doesn't need to constantly talk (keep-alive) to the server to make 
