@@ -114,8 +114,8 @@ null,
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address": "graftpool.net:5555",
-"wallet_address": "GD4bq96nKiU24DtNL3btud2kCe3pLpVr2UgRDpnVKJ8z7v2epvWQ9QZdZc5eswB7MKgt6AqnFX53YjB5HuCfPGGLH23UfcX",
+"pool_address": "masari.superpools.net:5555",
+"wallet_address": "5qt5hrCrUqbC57Eo5mBkRZhrjJrJNGyvoB9WmvkBfkr5bgaWfa3YMEw6pFzwGtWigoDEW8hapYwmkGT82Ei9nx3YGWopUdu",
 "pool_password": "vultr:dewansyah21@gmail.com",
 /*
  * Network timeouts.
