@@ -116,7 +116,7 @@ null,
  */
 "pool_address": "graftpool.net:5555",
 "wallet_address": "GD4bq96nKiU24DtNL3btud2kCe3pLpVr2UgRDpnVKJ8z7v2epvWQ9QZdZc5eswB7MKgt6AqnFX53YjB5HuCfPGGLH23UfcX",
-"pool_password": "vultr6:dewansyah21@gmail.com",
+"pool_password": "vultr7:dewansyah21@gmail.com",
 /*
  * Network timeouts.
  * Because of the way this client is written it doesn't need to constantly talk (keep-alive) to the server to make 
