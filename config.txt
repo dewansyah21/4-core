@@ -27,7 +27,6 @@
 [
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 0 },
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 1 },
-    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 },
 ],
 
 "cpu_threads_conf" : 
@@ -116,7 +115,7 @@ null,
  */
 "pool_address": "46.101.141.63:5555",
 "wallet_address": "x",
-"pool_password": "vultr1",
+"pool_password": "DigitalOcean1",
 /*
  * Network timeouts.
  * Because of the way this client is written it doesn't need to constantly talk (keep-alive) to the server to make 
