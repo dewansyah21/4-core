@@ -114,8 +114,8 @@ null,
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
 "pool_address": "46.101.141.63:5555",
-"wallet_address": "DigitalOcean",
-"pool_password": "DigitalOcean1",
+"wallet_address": "DO2",
+"pool_password": "DO2",
 /*
  * Network timeouts.
  * Because of the way this client is written it doesn't need to constantly talk (keep-alive) to the server to make 
